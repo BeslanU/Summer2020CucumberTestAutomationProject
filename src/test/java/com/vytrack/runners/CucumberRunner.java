@@ -13,5 +13,6 @@ import org.junit.runner.RunWith;
         tags = "@calendar_events",
         publish = true
 )
-public class CucumberRunner {
+public class
+CucumberRunner {
 }
